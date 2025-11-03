@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
 function App() {
-  ;<Router>
+  return (
     <Routes>
       <Route path="/" element={<>LOGIN</>}></Route>
       <Route path="/cadastro" element={<>CADASTRO</>}></Route>
@@ -8,7 +8,7 @@ function App() {
       <Route path="/leads" element={<>LEADS</>}></Route>
       <Route path="/perfil" element={<>PERFIL</>}></Route>
     </Routes>
-  </Router>
+  )
 }
 
 export default App
