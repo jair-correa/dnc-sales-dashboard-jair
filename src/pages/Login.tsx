@@ -10,7 +10,7 @@ function Login() {
           sx={{ alignItems: 'center', display: 'flex', height: '100vh' }}
         >
           <Container maxWidth="sm">
-            <h1>LOGIN</h1>
+            <h1>Login</h1>
           </Container>
         </Grid>
 

@@ -11,7 +11,7 @@ function Registration() {
             sx={{ alignItems: 'center', display: 'flex', height: '100vh' }}
           >
             <Container maxWidth="sm">
-              <h1>CADASTRO</h1>
+              <h1>Cadastro</h1>
             </Container>
           </Grid>
 
